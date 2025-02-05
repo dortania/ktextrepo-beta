@@ -203,6 +203,7 @@
       "Debug File": "debug.zip",
       "Desc": "OS X open source driver for the Realtek RTL8111/8168 family",
       "Name": "RealtekRTL8111",
+      "MacKernelSDK": true,
       "Post-Build": [
         {
           "args": [
