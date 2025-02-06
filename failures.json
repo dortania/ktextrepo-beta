@@ -117,9 +117,11 @@
     "fff571f17da640f3e37e3ef6e7ae4ea623025374": 3
   },
   "RealtekRTL8111": {
+    "1b1e068dd42094e04d1da58f43e19cd855811416": 1,
     "263d032e3cb147efcdd32ccdcbd70eaa44cbdc29": 3,
     "4990f9441fde3760ac375b6ee792f1d8283b166c": 3,
-    "5742ff2f2256afb00369051bee45cc1a587500b1": 3
+    "5742ff2f2256afb00369051bee45cc1a587500b1": 3,
+    "a9f1284bc019ea0f146927a244ae47803d4ad6ae": 1
   },
   "RestrictEvents": {
     "1f7c64b714b62dbee0a2c23c125e8ad6bee74781": 3
